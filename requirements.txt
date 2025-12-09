@@ -1,6 +1,5 @@
 python-telegram-bot==20.7
-opencv-python-headless==4.8.1.78
+opencv-python-headless==4.9.0.80
 pillow==10.1.0
 pytesseract==0.3.10
 numpy==1.24.3
-flask==2.3.3
